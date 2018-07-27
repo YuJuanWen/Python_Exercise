@@ -5,70 +5,119 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b92ba8a-436b-4682-a5e0-b73eb5ef1bf1" name="Default" comment="this is the 2nd time to commit file in pycharm to github.">
-      <change afterPath="$PROJECT_DIR$/File_operation/Directory_operation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File_operation/backup_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File_operation/batch_filename.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File_operation/open_close_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File_operation/read_current_position.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File_operation/rename_delete_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object_Oriented/define_a_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Application_shoot_airplane/CheckKeyboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Application_shoot_airplane/CreateWindow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectOriented_anomaly_module/Module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectOriented_anomaly_module/SingleModule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectOriented_anomaly_module/Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectOriented_anomaly_module/_new_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectOriented_anomaly_module/anomaly_issue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectOriented_anomaly_module/designClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectOriented_anomaly_module/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object_Oriented/ClassAttribute_CaseAttribute.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object_Oriented/Hide_Data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object_Oriented/MutipleIheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object_Oriented/Overriding_invoking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object_Oriented/Polymorphism.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object_Oriented/Protect_Object_Attribute.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object_Oriented/Shoot_someone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object_Oriented/SingleIheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object_Oriented/StaticMethod_ClassMethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object_Oriented/Understand_self.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object_Oriented/del_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/superior_exercise/Pass_parameter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object_Oriented/define_a_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/Object_Oriented/define_a_class.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-553382218">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gif" value="1" />
+          <entry key="py" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="1" />
+          <entry key="Python" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="3988" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="3988" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pima.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Deep_learning_with_python/pima.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ObjectOriented_anomaly_module/Test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
+              <folding>
+                <marker date="1532576659825" expanded="true" signature="44:49" ph="..." />
+                <marker date="1532576659825" expanded="true" signature="124:129" ph="..." />
+                <marker date="1532576659825" expanded="true" signature="166:171" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="open_close_file.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/File_operation/open_close_file.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ObjectOriented_anomaly_module/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="144">
+              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="batch_filename.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/File_operation/batch_filename.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application_shoot_airplane/CreateWindow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            <state relative-caret-position="2628">
+              <caret line="146" column="24" lean-forward="true" selection-start-line="146" selection-start-column="24" selection-end-line="146" selection-end-column="24" />
+              <folding>
+                <element signature="e#14#27#0" expanded="true" />
+                <marker date="1532691285199" expanded="true" signature="289:963" ph="..." />
+                <marker date="1532691285199" expanded="true" signature="987:1147" ph="..." />
+                <marker date="1532691285199" expanded="true" signature="1025:1147" ph="..." />
+                <marker date="1532691285199" expanded="true" signature="1266:1319" ph="..." />
+                <marker date="1532691285199" expanded="true" signature="1731:1813" ph="..." />
+                <marker date="1532691285199" expanded="true" signature="1839:2564" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="define_a_class.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Object_Oriented/define_a_class.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="read_current_position.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/File_operation/read_current_position.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Application_shoot_airplane/CheckKeyboard.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rename_delete_file.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/File_operation/rename_delete_file.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            <state relative-caret-position="184">
+              <caret line="147" selection-start-line="147" selection-end-line="147" />
+              <folding>
+                <element signature="e#15#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -111,14 +160,38 @@
         <option value="$PROJECT_DIR$/File_operation/Directory_operation.py" />
         <option value="$PROJECT_DIR$/File_operation/batch_filename.py" />
         <option value="$PROJECT_DIR$/Object_Oriented/define_a_class.py" />
+        <option value="$PROJECT_DIR$/Object_Oriented/Hide_Data.py" />
+        <option value="$PROJECT_DIR$/Object_Oriented/Understand_self.py" />
+        <option value="$PROJECT_DIR$/Object_Oriented/Shoot_someone.py" />
+        <option value="$PROJECT_DIR$/Object_Oriented/Protect_Object_Attribute.py" />
+        <option value="$PROJECT_DIR$/Object_Oriented/del_method.py" />
+        <option value="$PROJECT_DIR$/Object_Oriented/SingleIheritance.py" />
+        <option value="$PROJECT_DIR$/Object_Oriented/MutipleIheritance.py" />
+        <option value="$PROJECT_DIR$/Object_Oriented/Overriding_invoking.py" />
+        <option value="$PROJECT_DIR$/Object_Oriented/Polymorphism.py" />
+        <option value="$PROJECT_DIR$/Object_Oriented/ClassAttribute_CaseAttribute.py" />
+        <option value="$PROJECT_DIR$/Object_Oriented/StaticMethod_ClassMethod.py" />
+        <option value="$PROJECT_DIR$/ObjectOriented_anomaly_module/designClass.py" />
+        <option value="$PROJECT_DIR$/ObjectOriented_anomaly_module/_new_method.py" />
+        <option value="$PROJECT_DIR$/ObjectOriented_anomaly_module/SingleModule.py" />
+        <option value="$PROJECT_DIR$/ObjectOriented_anomaly_module/anomaly_issue.py" />
+        <option value="$PROJECT_DIR$/ObjectOriented_anomaly_module/Module.py" />
+        <option value="$PROJECT_DIR$/ObjectOriented_anomaly_module/Test.py" />
+        <option value="$PROJECT_DIR$/ObjectOriented_anomaly_module/main.py" />
+        <option value="$PROJECT_DIR$/superior_exercise/Pass_parameter.py" />
+        <option value="$PROJECT_DIR$/Application_shoot_airplane/CreateWindow.py" />
+        <option value="$PROJECT_DIR$/Application_shoot_airplane/CheckKeyboard.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="792" />
-    <option name="y" value="76" />
-    <option name="width" value="1232" />
+    <option name="x" value="438" />
+    <option name="y" value="31" />
+    <option name="width" value="1221" />
     <option name="height" value="1049" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -135,7 +208,7 @@
             <path>
               <item name="PythonExercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonExercise" type="462c0819:PsiDirectoryNode" />
-              <item name="Object_Oriented" type="462c0819:PsiDirectoryNode" />
+              <item name="Application_shoot_airplane" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,7 +218,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -164,8 +237,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.batch_filename">
-    <configuration name="Directory_operation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.CheckKeyboard">
+    <configuration name="CheckKeyboard" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -173,17 +246,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File_operation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Application_shoot_airplane" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File_operation/Directory_operation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Application_shoot_airplane/CheckKeyboard.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="backup_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="CreateWindow" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,17 +267,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File_operation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Application_shoot_airplane" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File_operation/backup_file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Application_shoot_airplane/CreateWindow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="batch_filename" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Pass_parameter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,17 +288,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File_operation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/superior_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File_operation/batch_filename.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/superior_exercise/Pass_parameter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="read_current_position" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,17 +309,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File_operation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ObjectOriented_anomaly_module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File_operation/read_current_position.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ObjectOriented_anomaly_module/Test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="rename_delete_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -245,30 +330,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File_operation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ObjectOriented_anomaly_module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File_operation/rename_delete_file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ObjectOriented_anomaly_module/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.backup_file" />
-      <item itemvalue="Python.read_current_position" />
-      <item itemvalue="Python.rename_delete_file" />
-      <item itemvalue="Python.Directory_operation" />
-      <item itemvalue="Python.batch_filename" />
+      <item itemvalue="Python.Test" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.Pass_parameter" />
+      <item itemvalue="Python.CreateWindow" />
+      <item itemvalue="Python.CheckKeyboard" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.batch_filename" />
-        <item itemvalue="Python.Directory_operation" />
-        <item itemvalue="Python.rename_delete_file" />
-        <item itemvalue="Python.read_current_position" />
-        <item itemvalue="Python.backup_file" />
+        <item itemvalue="Python.CheckKeyboard" />
+        <item itemvalue="Python.CreateWindow" />
+        <item itemvalue="Python.Pass_parameter" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -308,28 +396,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="792" y="76" width="1232" height="1049" extended-state="0" />
-    <editor active="true" />
+    <frame x="438" y="31" width="1221" height="1049" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22402598" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="R Packages" order="3" />
-      <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.1534091" side_tool="true" visible="true" weight="0.20678337" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.84659094" visible="true" weight="0.20678337" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49703184" weight="0.32756633" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.097021274" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.6179169" weight="0.449711" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.499375" weight="0.41387284" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.68926555" visible="true" weight="0.3232662" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49898717" weight="0.41356674" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.6179169" weight="0.449711" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.31073445" side_tool="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.17419963" side_tool="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4991883" weight="0.32932165" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -341,119 +428,26 @@
     <MESSAGE value="some simple exercise of function" />
     <option name="LAST_COMMIT_MESSAGE" value="some simple exercise of function" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Object_Oriented/Understand_self.py</url>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ObjectOriented_anomaly_module/anomaly_issue.py</url>
+          <line>142</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ObjectOriented_anomaly_module/anomaly_issue.py</url>
+          <line>158</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Deep_learning_with_python/pima.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/File_operation/open_close_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/String_tuple_Dictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1962">
-          <caret line="109" column="5" lean-forward="true" selection-start-line="109" selection-start-column="5" selection-end-line="109" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/Function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_learning_with_python/pima.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/String_tuple_Dictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1980">
-          <caret line="110" column="31" selection-start-line="110" selection-start-column="31" selection-end-line="110" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/Function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/String_tuple_Dictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1980">
-          <caret line="110" column="31" selection-start-line="110" selection-start-column="31" selection-end-line="110" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/Function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/String_tuple_Dictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1980">
-          <caret line="110" column="31" lean-forward="true" selection-start-line="110" selection-start-column="31" selection-end-line="110" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/Function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/github/yujuanwen/__init__.py" />
     <entry file="file://$PROJECT_DIR$/com/__init__.py" />
     <entry file="file://$PROJECT_DIR$/Test/test.ipynb" />
@@ -514,41 +508,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_learning_with_python/pima.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/File_operation/read_current_position.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/File_operation/rename_delete_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/File_operation/test.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/File_operation/test.txt" />
     <entry file="file://$PROJECT_DIR$/File_operation/test[copyfile].txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="33" selection-start-column="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/File_operation/open_close_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -573,8 +537,207 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/File_operation/open_close_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/File_operation/read_current_position.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/File_operation/rename_delete_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object_Oriented/Shoot_someone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1854">
+          <caret line="103" column="17" selection-start-line="103" selection-start-column="17" selection-end-line="103" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object_Oriented/Understand_self.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="65" column="29" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object_Oriented/Protect_Object_Attribute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object_Oriented/Hide_Data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deep_learning_with_python/pima.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Object_Oriented/define_a_class.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object_Oriented/del_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object_Oriented/SingleIheritance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object_Oriented/MutipleIheritance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object_Oriented/Overriding_invoking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object_Oriented/Polymorphism.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object_Oriented/ClassAttribute_CaseAttribute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object_Oriented/StaticMethod_ClassMethod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectOriented_anomaly_module/designClass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="56" column="34" lean-forward="true" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectOriented_anomaly_module/_new_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectOriented_anomaly_module/SingleModule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectOriented_anomaly_module/anomaly_issue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectOriented_anomaly_module/Module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectOriented_anomaly_module/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+          <folding>
+            <marker date="1532576659825" expanded="true" signature="44:49" ph="..." />
+            <marker date="1532576659825" expanded="true" signature="124:129" ph="..." />
+            <marker date="1532576659825" expanded="true" signature="166:171" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/superior_exercise/Pass_parameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectOriented_anomaly_module/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application_shoot_airplane/picture/bullet-3.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application_shoot_airplane/CreateWindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2628">
+          <caret line="146" column="24" lean-forward="true" selection-start-line="146" selection-start-column="24" selection-end-line="146" selection-end-column="24" />
+          <folding>
+            <element signature="e#14#27#0" expanded="true" />
+            <marker date="1532691285199" expanded="true" signature="289:963" ph="..." />
+            <marker date="1532691285199" expanded="true" signature="987:1147" ph="..." />
+            <marker date="1532691285199" expanded="true" signature="1025:1147" ph="..." />
+            <marker date="1532691285199" expanded="true" signature="1266:1319" ph="..." />
+            <marker date="1532691285199" expanded="true" signature="1731:1813" ph="..." />
+            <marker date="1532691285199" expanded="true" signature="1839:2564" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application_shoot_airplane/CheckKeyboard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="147" selection-start-line="147" selection-end-line="147" />
+          <folding>
+            <element signature="e#15#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
